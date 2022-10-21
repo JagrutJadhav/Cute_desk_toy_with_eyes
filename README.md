@@ -2,4 +2,4 @@
 
 Cute desk toy that looks at you while you are working or playing games and also displays Humidity and Temprature present in the room.
 
-![](https://github.com/OLED-animation_with_Humidity_a/oled_stm32.gif.gif)
+![](https://github.com/Cute_desk_toy_with_eyes/oled_stm32.gif.gif)
